@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string-array name="products_array">
+        <item>Electronics</item>
+        <item>Grocery</item>
+        <item>Health &amp; Fitness</item>
+        <item>Cosmetics</item>
+        <item>Furniture</item>
+        <item>Bikes &amp; Cars</item>
+    </string-array>
+</resources>
